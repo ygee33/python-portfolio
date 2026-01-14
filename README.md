@@ -40,5 +40,8 @@ conditionals, and user input.
 
 3. Run the expense tracker:
    python expense_tracker.py
+## Project: To-Do List
 
+A simple command-line application that allows users to add, view,
+and remove daily tasks using Python.
 
