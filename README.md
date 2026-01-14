@@ -44,4 +44,8 @@ conditionals, and user input.
 
 A simple command-line application that allows users to add, view,
 and remove daily tasks using Python.
+## Project: Number Guessing Game
+
+A simple Python game where the user guesses a randomly generated number.
+This project demonstrates loops, conditionals, user input, and random number generation.
 
