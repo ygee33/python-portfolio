@@ -40,5 +40,5 @@ conditionals, and user input.
 
 3. Run the expense tracker:
    python expense_tracker.py
-### How to Run the Project
-1. Clone this repository:
+
+
