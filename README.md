@@ -31,6 +31,14 @@ conditionals, and user input.
 - Python 3
 
 ---
+### How to Run
+1. Clone the repository:
+   git clone https://github.com/ygee33/python-portfolio.git
 
+2. Navigate into the project folder:
+   cd python-portfolio
+
+3. Run the expense tracker:
+   python expense_tracker.py
 ### How to Run the Project
 1. Clone this repository:
